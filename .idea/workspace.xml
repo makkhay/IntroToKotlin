@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="265dd3bc-8812-4b38-8335-473725bac441" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/java/com/prakash/appstem/model/MessageEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/java/com/prakash/appstem/util/SpellDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/java/com/prakash/appstem/view/DetailActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/res/drawable/bg_btn_outline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/res/drawable/btn_outline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/res/drawable/ic_close_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/res/drawable/ic_info_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/res/drawable/ic_more_vert_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/res/drawable/ic_search_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/res/drawable/place_holder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/res/drawable/toolbar_dropshadow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/res/layout/dialog_bottom_tutorial.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppStem/app/src/main/res/raw/english.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/IntroToKotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DummyClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellChecker-master/KotlinLesson/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellChecker-master/Spell_Checker/Spell_Checker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellChecker-master/Spell_Checker/src/com/company/SpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellChecker-master/Spell_Checker/src/com/company/SpellDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpellChecker-master/Spell_Checker/src/com/company/engDict.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/libs/YouTubeAndroidPlayerApi.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/release/app-release.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/release/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/androidTest/java/com/org/nepalifoodrecipie/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/AvenirNext-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/AvenirNext-DemiBold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/AvenirNext-Heavy.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/AvenirNext-Medium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/AvenirNext-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/AvenirNext-UltraLight.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/Futura-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/Futura-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/Ubuntu-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/Ubuntu-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/Ubuntu-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/Ubuntu-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/databases/dummyData.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/logo_three.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/love.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/assets/welcome.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/DAO/DatabaseConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/DAO/DbObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/DAO/DbQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/EventBus/MessageEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/Fragment/ExploreFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/Fragment/FavoriteFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/Fragment/HomeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/Fragment/SettingsActivityFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/YumYumAplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/AboutActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/CategoryDetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/CookingModeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/CreditWebsiteActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/DetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/MakeRecipeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/MyCookedDishActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/SearchActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/SettingsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/ShoppingListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/SignInActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/SplashActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/SubmitRecipeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/TimerActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/TimerSettings.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/activity/TutorialActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/CategoryDetailAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/DirectionAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/ExploreAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/FavoriteAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/IngredientAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/MyCookedAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/MyFragPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/NotesAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/PostAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/RecommendedAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/SearchAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/ShoppingListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/adapter/SwipeCardViewAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/broadcast/AlarmReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/broadcast/TimerExpiredReceiver.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/broadcast/TimerNotificationActionReceiver.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/font/FontCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/font/FontTextView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/helper/CustomAddItemDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/helper/CustomHelpDialogClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/helper/ItemClickListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/helper/NotesAddDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/CardItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/CategoryDetailModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/ExploreModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/Favorite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/Ingredient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/MasterModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/MyCookedDishModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/Notes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/PostMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/SearchModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/SharedPrefList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/model/ShoppingListModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/utils/AppConstants.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/utils/CardAdapterInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/utils/ImageUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/utils/NotificationUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/utils/PrefUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/utils/ShadowTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/utils/Tools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/java/com/org/nepalifoodrecipie/widget/SpacingItemDecoration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/anim/slide_out_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/anim/smooth_rotate_fast.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/anim/spin_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-v21/ic_menu_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-v21/ic_menu_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-v21/ic_menu_manage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-v21/ic_menu_send.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-v21/ic_menu_share.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-v21/my_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-v24/baseline_favorite_border_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-v24/baseline_search_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-v24/no_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-xxhdpi/baseline_delete_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-xxhdpi/baseline_delete_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-xxhdpi/baseline_favorite_border_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-xxhdpi/baseline_favorited_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-xxhdpi/baseline_pause_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-xxhdpi/baseline_play_arrow_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-xxhdpi/baseline_restaurant_menu_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-xxhdpi/baseline_share_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-xxhdpi/baseline_share_white_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-xxhdpi/baseline_stop_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-xxhdpi/baseline_timer_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable-xxhdpi/splash_back_two.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_assignment_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_delete_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_delete_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_favorite_border_white_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_favorite_border_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_favorited_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_pause_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_play_arrow_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_restaurant_menu_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_search_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_share_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_share_white_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_stop_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/baseline_timer_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/bg_btn_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/bg_btn_outline_dark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/bg_btn_outline_red.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/bread_recipie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/btn_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/btn_outline_dark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/btn_outline_red.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/button_pressed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/chicken_recipe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/circle_drawable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/curry_recipie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/dash_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/dessert_recipie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/discover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/discover_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/dotted.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/draw_thin_rounded_rectangle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/drinks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/explore_more_recipe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/fab_btn_corner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/fab_label_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/favorite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/goat_recpie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/gradient.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_access_time_black_16dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_access_time_grey_16dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_account_circle_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_account_circle_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_account_circle_white_48dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_add_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_add_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_assignment_turned_in_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_bug_report_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_check_circle_black_16dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_check_circle_grey_16dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_close_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_close_black_30dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_close_grey_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_close_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_close_white_30dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_delete_sweep_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_delete_sweep_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_delete_white_svg_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_edit_black_20dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_event_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_expand_less_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_expand_less_black_32dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_expand_more_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_expand_more_black_32dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_favorite_border_white_svg_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_favorited_white_svg_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_info_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_language_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_launch_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_list_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_list_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_live_help_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_local_dining_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_mode_edit_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_notifications_active_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_perm_device_information_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_person_pin_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_play_circle_filled_black_48dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_play_circle_filled_white_48dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_play_circle_outline_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_play_circle_outline_black_42dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_power_settings_new_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_rate_review_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_report_problem_black_18dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_report_problem_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_restaurant_menu_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_search_black_16dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_search_black_36dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_send_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_settings_white_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_share_white_svg_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_spices.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_thumb_down_black_18dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_thumb_down_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_thumb_up_black_18dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_thumb_up_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_timer_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ic_update_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/ingredients_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/input_circle_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/input_draw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/logo_final.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/logo_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/newari_food.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/no_favorite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/no_internet_satellite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/no_list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/pickle_recpie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/place_holder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/place_holder_two.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/pork_recepie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/prox_sensor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/real_placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/rectangle_selected.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/rounded_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/shape_round_grey.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/shopping_list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/shopping_list_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/side_nav_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/snacks_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/splash_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/splash_back_two.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/street_food_recipe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/toolbar_dropshadow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/yourimage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/drawable/yum_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/action_bar_notifitcation_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_about.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_category_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_cooking_mode.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_feedback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_make_recipe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_my_cooked_dish.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_settings2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_shopping_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_sign_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_submit_recipe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/activity_timer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/app_bar_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/category_detail_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/content_category_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/content_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/content_timer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/credit_website_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/custom_add_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/custom_bottom_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/date_time_picker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/direction_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/explore_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/favorite_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/fragment_explore.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/fragment_favorite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/fragment_home2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/ingredient_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/ingredient_shopping_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/item_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/item_category.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/item_message.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/item_message2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/my_cooked_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/nav_header_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/notes_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/recommended_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/search_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/sensor_tutorial.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/layout/settings_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/menu/cooked_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/menu/detail_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/menu/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/menu/menu_timer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/menu/shopping_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_high.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/values/arrays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/values/drawables.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/xml/preferences.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/main/res/xml/root_preferences.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/app/src/test/java/com/org/nepalifoodrecipie/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/category_background/bread_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/category_background/chicken _back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/category_background/curry_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/category_background/dessert_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/category_background/drinks_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/category_background/explore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/category_background/mutton_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/category_background/newari_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/category_background/pickle_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/category_background/pork_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/category_background/snacks_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/category_background/streetfood_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliFoodRecipie2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NepaliToEnglishDictionary-version2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NepaliToEnglishDictionary-version2/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1619681366">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="kt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Kotlin" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="kt" value="3861" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Kotlin" value="3861" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="319" column="22" selection-start-line="319" selection-start-column="22" selection-end-line="319" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DummyClass.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/DummyClass.kt" />
+        <option value="$PROJECT_DIR$/src/main.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IntroToKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroToKotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroToKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroToKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575438798149" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="IntroToKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="265dd3bc-8812-4b38-8335-473725bac441" name="Default Changelist" comment="" />
+      <created>1574886292845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574886292845</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20510204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32959184" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="319" column="22" selection-start-line="319" selection-start-column="22" selection-end-line="319" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DummyClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
